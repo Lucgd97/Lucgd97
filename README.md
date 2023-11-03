@@ -4,9 +4,6 @@ Minha jornada na carreira corporativa foi marcada por crescimento e aprendizado 
 Essa busca por autodescoberta me levou a unir minha história pessoal à paixão pela tecnologia e à missão de ajudar as pessoas. Investi em cursos e mentoria, focando em desenvolvimento Power BI, Excel e SQL.
 
 Me considero ágil, consistente na aprendizagem e pronto para desafios. Meu objetivo é ingressar no mundo da tecnologia como Analista de Inteligência de Mercado. Em resumo, sou otimista, esforçado e perseverante.
-
-Estou entusiasmado para contribuir na equipe da CRS Brands, trazendo minha paixão pela análise de mercado e minha sede de aprendizado.
-
 <div align="center">
   <a href="https://github.com/Lucgd97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucgd97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
